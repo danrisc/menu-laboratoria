@@ -1,0 +1,40 @@
+
+
+
+nav ul li{
+	list-style: none;
+	text-decoration: none;
+font-size: 15px;
+}
+.lista{
+	border-right: solid 1px black;
+	padding: 5px;
+	width: 100%;
+	text-align:center;
+}
+	
+nav a {
+	cursor:pointer;
+	color:white;
+	text-decoration: none;
+
+}
+
+nav ul {
+	height: 51px;
+	margin-top:0px;
+
+}
+
+nav{
+	background-color: #db7878;
+
+}
+
+
+
+
+ li:hover{
+background-color: #e8048a;
+
+}
