@@ -51,7 +51,7 @@ body{
 }
 
 
-.container{
+.flex-container{
     display: -webkit-flex;
     display: flex;
     -webkit-justify-content: space-between;
